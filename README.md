@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @schizosavant.
+- 👀 I’m interested in blockchain, ehtical hacking, and programming.
+- 🌱 I’m currently learning about blockchain technology (coding with solidity), ethical hacking, and how to optimize time.
+- 💞️ I’m looking to collaborate on any project related to my interests.
+- 📫 You can reach me via e-mail @ ryderpickens93@gmail.com.
